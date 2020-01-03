@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "imagemin": "^7.0.0",
+    "imagemin-jpegtran": "^6.0.0",
+    "imagemin-mozjpeg": "^8.0.0",
+    "imagemin-pngquant": "^8.0.0",
+    "pngquant": "^3.0.0"
+  }
+}
